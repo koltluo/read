@@ -20,17 +20,7 @@
 
 如果你想深入了解 LearnData 的高级技巧，请浏览 [LearnData 博客：高效知识管理和进阶应用技巧](https://newzone.top/posts/2024-01-28-learndata-advanced.html)。
 
-## ✨ 初衷
 
-曾经，我采用了 Notion、Obsidian 和 飞书 等多款知识管理工具来存储我的心得与笔记。然而，这种方式导致我的资料分散，难以管理和分享。
-
-更重要的是，**笔记里的知识并不属于你，只有经过消化、应用，才会成为我们的财富。**
-
-为此，我基于 VuePress 和 vuepress-theme-hope 构建了 LearnData 开源笔记，将我所有的笔记与文章聚合到同一页面形成知识库，便于集中管理和分享。
-
-![](https://img.newzone.top/2022-08-22-19-28-25.png?imageMogr2/thumbnail/600x "笔记 + 文章 = LearnData 知识库")
-
-![](https://img.newzone.top/2022-08-24-19-14-59.png "笔记/博客自动化发布")
 
 ## 🧱 笔记结构
 
